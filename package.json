@@ -1,0 +1,19 @@
+{
+  "name": "sergiotailwinds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+   "dev": "vite dev",
+   "build":"vite build",
+   "preview": "vite preview"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
